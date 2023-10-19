@@ -1,0 +1,7 @@
+This backup server was made for people having complications with the main server like getting no response from the client or commands not executing properly. This server will always execute but its a little buggy/weird, you might not be able to run the same command twice or it might freeze sometimes. If you are still having issues using the backup client it is most likely your firewall or the programm you are using to forward your port. If you have questions or problems still DM me on discord. I am always making this RAT better will more updates soon.
+
+How to use:
+
+Run the server-back.bat file to configure your port for the server. Then build the client and wait for a connection.
+
+Discord: packergen
