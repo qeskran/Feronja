@@ -2,6 +2,6 @@ This backup server was made for people having complications with the main server
 
 How to use:
 
-Run the server-back.bat file to configure your port for the server. Then build the client and wait for a connection.
+Run the build-back.bat file to configure your port for the server. Then build the client and wait for a connection.
 
 Discord: packergen
